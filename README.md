@@ -131,8 +131,8 @@ class Developer:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abduallahJamal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0ea5a4&icon_color=0ea5a4&text_color=c9d1d9&bg_color=0b1220" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduallahJamal&layout=compact&langs_count=8&hide_border=true&title_color=0ea5a4&text_color=c9d1d9&bg_color=0b1220" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abduallahJamal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0ea5a4&icon_color=0ea5a4&text_color=c9d1d9&bg_color=0b1220&cache_seconds=1800" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduallahJamal&layout=compact&langs_count=8&hide_border=true&title_color=0ea5a4&text_color=c9d1d9&bg_color=0b1220&cache_seconds=1800" alt="Top languages" />
 </p>
 
 <p align="center">
