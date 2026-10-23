@@ -149,9 +149,9 @@ class Developer:
 
 <p>
   <a href="https://github.com/abduallahJamal"><img src="https://img.shields.io/badge/GitHub-abduallahJamal-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <!-- Add when ready:
+  <a href="mailto:abdallah.gamal.mohamed1@gmail.com"><img src="https://img.shields.io/badge/Email-abdallah.gamal.mohamed1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <!-- Add LinkedIn when ready:
   <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   -->
 </p>
 
