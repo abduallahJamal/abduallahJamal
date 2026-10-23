@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Abduallah Jamal 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer</b> · Python · Django · Building clean, practical web apps
+  <b>Full-Stack Developer</b> · Python · Django · Building clean, practical web apps & developer tools
   <br />
   📍 Cairo, Egypt
 </p>
@@ -23,7 +23,7 @@
 
 ## 🇪🇬 نبذة سريعة
 
-مطوّر **Full-Stack** من القاهرة، بأركّز على بناء تطبيقات ويب عملية بـ **Python / Django** في الخلفية، وواجهات نظيفة وسريعة في الأمام.
+مطوّر **Full-Stack** من القاهرة، بأركّز على بناء تطبيقات ويب عملية وأدوات مطوّرين بـ **Python / Django** في الخلفية، وواجهات نظيفة وسريعة في الأمام.
 بحب الكود البسيط اللي بيتقرأ، والمشاريع اللي بتحل مشكلة حقيقية — والأهم إنها تخلّص صح.
 
 ---
@@ -37,7 +37,7 @@ class Developer:
         self.role       = "Full-Stack Developer"
         self.location   = "Cairo, Egypt"
         self.main_stack = ["Python", "Django", "PostgreSQL", "JavaScript"]
-        self.focus      = ["Clean architecture", "REST APIs", "Performance"]
+        self.focus      = ["Clean architecture", "REST APIs", "Developer & AI Tooling"]
         self.learning   = ["Docker", "CI/CD", "Cloud deployment"]
         self.open_to    = ["Collaboration", "Freelance", "Open Source"]
 
@@ -75,7 +75,7 @@ class Developer:
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
@@ -84,28 +84,39 @@ class Developer:
 
 ## 🚀 Featured Projects
 
-> 🔧 المساحة دي جاهزة — أول ما تضيف مشاريع، بدّل السطور اللي تحت ببياناتك الحقيقية.
-
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>📦 Project One</h3>
-      <p>وصف قصير للمشروع في سطر أو سطرين: المشكلة، الحل، وأهم ميزة.</p>
+    <td width="100%" valign="top">
+      <h3>🗡️ <a href="https://github.com/abduallahJamal/opencode-design-skills">opencode-design-skills</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        Three professional Agent Skills (<code>sword</code>, <code>spdf</code>, <code>shtml</code>) for <b>OpenCode</b>, <b>Claude Code</b>, and <b>Codex CLI</b> that turn raw agent output into executive-grade Word (<code>.docx</code>), PDF, and HTML documents — with first-class <b>Arabic RTL</b> support and automated CI validation.
       </p>
-      <p><a href="https://github.com/abduallahJamal?tab=repositories"><b>View repo →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📦 Project Two</h3>
-      <p>وصف قصير للمشروع في سطر أو سطرين: المشكلة، الحل، وأهم ميزة.</p>
       <p>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_API-A30000?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/OpenCode-Agent_Skills-38bdf8?style=flat-square" alt="OpenCode Skills" />
+        <img src="https://img.shields.io/badge/Claude_Code_%26_Codex-Compatible-10a37f?style=flat-square" alt="Claude Code & Codex" />
+        <img src="https://img.shields.io/badge/Arabic-RTL_First-a78bfa?style=flat-square" alt="Arabic RTL" />
+        <img src="https://img.shields.io/github/actions/workflow/status/abduallahJamal/opencode-design-skills/validate.yml?branch=main&style=flat-square&label=CI&color=0ea5a4" alt="CI Status" />
+        <img src="https://img.shields.io/github/stars/abduallahJamal/opencode-design-skills?style=flat-square&color=f59e0b" alt="Stars" />
       </p>
-      <p><a href="https://github.com/abduallahJamal?tab=repositories"><b>View repo →</b></a></p>
+      <p>
+        <a href="https://github.com/abduallahJamal/opencode-design-skills"><b>View Repository →</b></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/abduallahJamal/opencode-design-skills/blob/main/README.ar.md"><b>التوثيق بالعربية →</b></a>
+      </p>
     </td>
+    <!-- Add a second project card side-by-side when ready (change both td widths to 50%):
+    <td width="50%" valign="top">
+      <h3>📦 <a href="https://github.com/abduallahJamal/REPO_NAME">Project Title</a></h3>
+      <p>Short two-line description: problem solved, architecture, and key highlight.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+      <p><a href="https://github.com/abduallahJamal/REPO_NAME"><b>View Repository →</b></a></p>
+    </td>
+    -->
   </tr>
 </table>
 
@@ -123,11 +134,7 @@ class Developer:
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abduallahJamal&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abduallahJamal&bg_color=0b1220&color=0ea5a4&line=0ea5a4&point=f59e0b&area=true&hide_border=true" alt="Contribution graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abduallahJamal&theme=github_dark" alt="Contribution overview" width="100%" />
 </p>
 
 ---
