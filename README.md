@@ -192,6 +192,27 @@ class Engineer:
       </p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🍽️ <a href="https://github.com/abduallahJamal/opencode-menu-skills">opencode-menu-skills</a></h3>
+      <p>
+        Eight Agent Skills + <code>/menu</code> command for producing <b>print-ready, zero-drift Arabic RTL café &amp; restaurant menus</b> across <b>OpenCode</b>, <b>Claude Code</b>, and <b>Codex CLI</b> — separating verified JSON item/price schemas and text-free AI food photography from live A4 HTML/CSS typography, 300-DPI Playwright rendering, and automated visual QA.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Skills-8_%2B_%2Fmenu-818cf8?style=flat-square" alt="8 Skills + /menu" />
+        <img src="https://img.shields.io/badge/Playwright-300_DPI_Print-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright 300 DPI" />
+        <img src="https://img.shields.io/badge/Arabic-RTL_First-a78bfa?style=flat-square" alt="Arabic RTL" />
+        <img src="https://img.shields.io/github/actions/workflow/status/abduallahJamal/opencode-menu-skills/validate.yml?branch=main&style=flat-square&label=CI&color=0ea5a4" alt="CI Status" />
+        <img src="https://img.shields.io/github/stars/abduallahJamal/opencode-menu-skills?style=flat-square&color=f59e0b" alt="Stars" />
+      </p>
+      <p>
+        <a href="https://github.com/abduallahJamal/opencode-menu-skills"><b>View Repository →</b></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/abduallahJamal/opencode-menu-skills/blob/main/README.ar.md"><b>التوثيق بالعربية →</b></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
