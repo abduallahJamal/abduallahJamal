@@ -1,12 +1,14 @@
 <!-- ============ BANNER ============ -->
 <p align="center">
-  <img src="assets/banner.png" alt="Abduallah Jamal — Full-Stack Developer" width="100%" />
+  <img src="assets/banner.png" alt="Abduallah Jamal — Full-Stack & AI Engineer · Security Auditor · Reverse Engineer" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Abduallah Jamal 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer</b> · Python · Django · Building clean, practical web apps & developer tools
+  <b>Full-Stack &amp; AI Engineer</b> · <b>Security Auditor</b> · <b>Reverse Engineer</b>
+  <br />
+  Python &amp; Django · Agentic Systems &amp; RAG · Source Code Auditing &amp; Binary Analysis
   <br />
   📍 Cairo, Egypt
 </p>
@@ -16,7 +18,7 @@
     <img src="https://img.shields.io/github/followers/abduallahJamal?label=Followers&style=for-the-badge&color=0ea5a4&labelColor=0b1220" alt="Followers" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=abduallahJamal&style=for-the-badge&color=0ea5a4&labelColor=0b1220&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-0ea5a4?style=for-the-badge&labelColor=0b1220" alt="Open to collaboration" />
+  <img src="https://img.shields.io/badge/Open_to-Engineering_%26_Security_Audits-0ea5a4?style=for-the-badge&labelColor=0b1220" alt="Open to Engineering and Security Audits" />
 </p>
 
 ---
@@ -26,8 +28,8 @@
 ## نبذة سريعة 🇪🇬
 
 <p dir="rtl" align="right">
-مطوّر <b>Full-Stack</b> من القاهرة، بأركّز على بناء تطبيقات ويب عملية وأدوات مطوّرين بـ <b>Python / Django</b> في الخلفية، وواجهات نظيفة وسريعة في الأمام.<br />
-بحب الكود البسيط اللي بيتقرأ، والمشاريع اللي بتحل مشكلة حقيقية — والأهم إنها تخلّص صح.
+مهندس <b>Full-Stack &amp; AI</b> بـ <b>Python / Django</b>، ومراجع أمني (<b>Security Auditor</b>) بخبرة عملية في <b>الهندسة العكسية (Reverse Engineering)</b>.<br />
+أبني تطبيقات ويب وأنظمة ذكاء اصطناعي ووكلاء (AI Agents &amp; RAG) بمعمارية نظيفة ومؤمّنة من الجذور، وأراجع الأنظمة والكود المصدري والثنائيات لاكتشاف الثغرات قبل وصولها للإنتاج — لأن فهم كيف تُكسَر الأنظمة هو أضمن طريق لبنائها صح.
 </p>
 
 </div>
@@ -37,53 +39,104 @@
 ## 🧭 About Me
 
 ```python
-class Developer:
+class Engineer:
     def __init__(self):
         self.name       = "Abduallah Jamal"
-        self.role       = "Full-Stack Developer"
+        self.roles      = [
+            "Full-Stack & AI Engineer",
+            "Security Auditor (AppSec & Code Review)",
+            "Reverse Engineer",
+        ]
         self.location   = "Cairo, Egypt"
-        self.main_stack = ["Python", "Django", "PostgreSQL", "JavaScript"]
-        self.focus      = ["Clean architecture", "REST APIs", "Developer & AI Tooling"]
-        self.learning   = ["Docker", "CI/CD", "Cloud deployment"]
-        self.open_to    = ["Collaboration", "Freelance", "Open Source"]
+        self.backend    = ["Python", "Django", "FastAPI", "PostgreSQL", "Redis"]
+        self.ai_stack   = ["LLM APIs", "RAG (pgvector)", "AI Agents & MCP", "Structured Outputs"]
+        self.security   = ["Source Code Auditing", "Reverse Engineering", "Binary & Protocol Analysis", "OWASP / AppSec"]
+        self.open_to    = ["Engineering Roles", "Security Audits", "Open Source"]
 
-    def current_goal(self):
-        return "Ship software that is simple, tested, and useful."
+    def philosophy(self):
+        return "Understand how systems break to build software that is simple, intelligent, and secure."
 ```
+
+---
+
+## 🛡️ Core Domains
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>⚡ Full-Stack &amp; Backend</h3>
+      <p>Designing clean, maintainable web applications and high-throughput REST APIs with <b>Python</b>, <b>Django</b>, <b>FastAPI</b>, <b>PostgreSQL</b>, and background task pipelines with <b>Celery &amp; Redis</b>.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤖 AI &amp; Agentic Systems</h3>
+      <p>Building production LLM workflows, <b>RAG</b> pipelines over <b>pgvector</b>, structured tool-use with <b>Pydantic</b>, and cross-platform <b>Agent Skills &amp; MCP</b> integrations.</p>
+    </td>
+    <td width="34%" valign="top">
+      <h3>🔐 Security &amp; Reverse Engineering</h3>
+      <p>Deep <b>source-code security auditing</b>, vulnerability discovery (<b>OWASP / AppSec</b>), static &amp; dynamic binary analysis, decompilation, and protocol inspection.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages & Low-Level**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C_%2F_C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++" />
+  <img src="https://img.shields.io/badge/x86_%2F_ARM_ASM-0b1220?style=for-the-badge&logo=arm&logoColor=0ea5a4" alt="x86 / ARM Assembly" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-**Frameworks & Libraries**
+**Backend & Web Engineering**
 
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-**Databases & Tools**
+**AI & Agentic Engineering**
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_%26_Claude_APIs-0b1220?style=for-the-badge&logo=openai&logoColor=0ea5a4" alt="OpenAI & Claude APIs" />
+  <img src="https://img.shields.io/badge/LangChain_%26_LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain & LangGraph" />
+  <img src="https://img.shields.io/badge/RAG_%26_pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="RAG & pgvector" />
+  <img src="https://img.shields.io/badge/AI_Agents_%26_MCP-0ea5a4?style=for-the-badge&labelColor=0b1220" alt="AI Agents & MCP" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
+</p>
+
+**Security Auditing & Reverse Engineering**
+
+<p>
+  <img src="https://img.shields.io/badge/Ghidra-B81D13?style=for-the-badge&logoColor=white" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/IDA_Pro_%26_x64dbg-0b1220?style=for-the-badge&logoColor=0ea5a4" alt="IDA Pro & x64dbg" />
+  <img src="https://img.shields.io/badge/Frida_%26_Radare2-EF6C00?style=for-the-badge&logoColor=white" alt="Frida & Radare2" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Semgrep_%26_SAST-17B890?style=for-the-badge&logo=semgrep&logoColor=white" alt="Semgrep & SAST" />
+  <img src="https://img.shields.io/badge/OWASP_AppSec-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP AppSec" />
+</p>
+
+**Databases, Infrastructure & Tools**
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
@@ -95,7 +148,7 @@ class Developer:
     <td width="100%" valign="top">
       <h3>🗡️ <a href="https://github.com/abduallahJamal/opencode-design-skills">opencode-design-skills</a></h3>
       <p>
-        Three professional Agent Skills (<code>sword</code>, <code>spdf</code>, <code>shtml</code>) for <b>OpenCode</b>, <b>Claude Code</b>, and <b>Codex CLI</b> that turn raw agent output into executive-grade Word (<code>.docx</code>), PDF, and HTML documents — with first-class <b>Arabic RTL</b> support and automated CI validation.
+        Three professional Agent Skills (<code>sword</code>, <code>spdf</code>, <code>shtml</code>) for <b>OpenCode</b>, <b>Claude Code</b>, and <b>Codex CLI</b> that turn raw agent output into executive-grade Word (<code>.docx</code>), PDF, and HTML documents — with first-class <b>Arabic RTL</b> support and automated Python CI validation.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -118,7 +171,7 @@ class Developer:
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Security-AppSec-0ea5a4?style=flat-square" alt="Security" />
       </p>
       <p><a href="https://github.com/abduallahJamal/REPO_NAME"><b>View Repository →</b></a></p>
     </td>
@@ -156,7 +209,7 @@ class Developer:
 </p>
 
 <p align="center" dir="rtl">
-  <i>«الكود النضيف مش رفاهية — هو أسرع طريق للتطوير.»</i>
+  <i>«فهم كيف تُكسَر الأنظمة هو أضمن طريق لبنائها صح — بكود نظيف، ذكي، ومؤمّن.»</i>
 </p>
 
 <p align="center">
