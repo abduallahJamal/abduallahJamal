@@ -155,15 +155,32 @@ class Engineer:
 
 <table>
   <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/abduallahJamal/opencode-connect-f-production-skills">opencode-connect-f-production-skills</a></h3>
+      <p>
+        Eight gated <b>production-engineering &amp; security-auditing</b> Agent Skills + <code>/connect-f</code> command for <b>OpenCode</b>, <b>Claude Code</b>, and <b>Codex CLI</b> — enforcing interview-first scoping, read-only OWASP/code audits, and phase-approved fixes.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Skills-8_%2B_%2Fconnect--f-818cf8?style=flat-square" alt="8 Skills" />
+        <img src="https://img.shields.io/badge/Security-Audit_%26_AppSec-0ea5a4?style=flat-square" alt="Security Audit" />
+        <img src="https://img.shields.io/github/actions/workflow/status/abduallahJamal/opencode-connect-f-production-skills/validate.yml?branch=main&style=flat-square&label=CI&color=0ea5a4" alt="CI Status" />
+        <img src="https://img.shields.io/github/stars/abduallahJamal/opencode-connect-f-production-skills?style=flat-square&color=f59e0b" alt="Stars" />
+      </p>
+      <p>
+        <a href="https://github.com/abduallahJamal/opencode-connect-f-production-skills"><b>View Repository →</b></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/abduallahJamal/opencode-connect-f-production-skills/blob/main/README.ar.md"><b>التوثيق بالعربية →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🗡️ <a href="https://github.com/abduallahJamal/opencode-design-skills">opencode-design-skills</a></h3>
       <p>
-        Three professional Agent Skills (<code>sword</code>, <code>spdf</code>, <code>shtml</code>) for <b>OpenCode</b>, <b>Claude Code</b>, and <b>Codex CLI</b> that turn raw agent output into executive-grade Word (<code>.docx</code>), PDF, and HTML documents — with first-class <b>Arabic RTL</b> support and automated Python CI validation.
+        Three professional Agent Skills (<code>sword</code>, <code>spdf</code>, <code>shtml</code>) for <b>OpenCode</b>, <b>Claude Code</b>, and <b>Codex CLI</b> that turn raw agent output into executive-grade Word (<code>.docx</code>), PDF, and HTML documents — with first-class <b>Arabic RTL</b> support.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/OpenCode-Agent_Skills-38bdf8?style=flat-square" alt="OpenCode Skills" />
-        <img src="https://img.shields.io/badge/Claude_Code_%26_Codex-Compatible-10a37f?style=flat-square" alt="Claude Code & Codex" />
         <img src="https://img.shields.io/badge/Arabic-RTL_First-a78bfa?style=flat-square" alt="Arabic RTL" />
         <img src="https://img.shields.io/github/actions/workflow/status/abduallahJamal/opencode-design-skills/validate.yml?branch=main&style=flat-square&label=CI&color=0ea5a4" alt="CI Status" />
         <img src="https://img.shields.io/github/stars/abduallahJamal/opencode-design-skills?style=flat-square&color=f59e0b" alt="Stars" />
@@ -174,18 +191,6 @@ class Engineer:
         <a href="https://github.com/abduallahJamal/opencode-design-skills/blob/main/README.ar.md"><b>التوثيق بالعربية →</b></a>
       </p>
     </td>
-    <!-- Add a second project card side-by-side when ready (change both td widths to 50%):
-    <td width="50%" valign="top">
-      <h3>📦 <a href="https://github.com/abduallahJamal/REPO_NAME">Project Title</a></h3>
-      <p>Short two-line description: problem solved, architecture, and key highlight.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/WPF-.NET-0078D4?style=flat-square" alt="WPF" />
-        <img src="https://img.shields.io/badge/Security-AppSec-0ea5a4?style=flat-square" alt="Security" />
-      </p>
-      <p><a href="https://github.com/abduallahJamal/REPO_NAME"><b>View Repository →</b></a></p>
-    </td>
-    -->
   </tr>
 </table>
 
