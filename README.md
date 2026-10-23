@@ -6,9 +6,9 @@
 <h1 align="center">Hi, I'm Abduallah Jamal 👋</h1>
 
 <p align="center">
-  <b>Full-Stack &amp; AI Engineer</b> · <b>Security Auditor</b> · <b>Reverse Engineer</b>
+  <b>Full-Stack &amp; AI Engineer</b> · <b>WPF Desktop Developer</b> · <b>Security Auditor &amp; Reverse Engineer</b>
   <br />
-  Python &amp; Django · Agentic Systems &amp; RAG · Source Code Auditing &amp; Binary Analysis
+  Python &amp; Django · C# &amp; .NET (WPF) · Agentic AI &amp; RAG · Code Auditing &amp; Binary Analysis
   <br />
   📍 Cairo, Egypt
 </p>
@@ -17,7 +17,9 @@
   <a href="https://github.com/abduallahJamal">
     <img src="https://img.shields.io/github/followers/abduallahJamal?label=Followers&style=for-the-badge&color=0ea5a4&labelColor=0b1220" alt="Followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=abduallahJamal&style=for-the-badge&color=0ea5a4&labelColor=0b1220&label=Profile+Views" alt="Profile views" />
+  <a href="https://github.com/abduallahJamal?tab=repositories">
+    <img src="https://img.shields.io/github/stars/abduallahJamal?label=Stars&style=for-the-badge&color=0ea5a4&labelColor=0b1220" alt="Stars" />
+  </a>
   <img src="https://img.shields.io/badge/Open_to-Engineering_%26_Security_Audits-0ea5a4?style=for-the-badge&labelColor=0b1220" alt="Open to Engineering and Security Audits" />
 </p>
 
@@ -28,8 +30,8 @@
 ## نبذة سريعة 🇪🇬
 
 <p dir="rtl" align="right">
-مهندس <b>Full-Stack &amp; AI</b> بـ <b>Python / Django</b>، ومراجع أمني (<b>Security Auditor</b>) بخبرة عملية في <b>الهندسة العكسية (Reverse Engineering)</b>.<br />
-أبني تطبيقات ويب وأنظمة ذكاء اصطناعي ووكلاء (AI Agents &amp; RAG) بمعمارية نظيفة ومؤمّنة من الجذور، وأراجع الأنظمة والكود المصدري والثنائيات لاكتشاف الثغرات قبل وصولها للإنتاج — لأن فهم كيف تُكسَر الأنظمة هو أضمن طريق لبنائها صح.
+مهندس برمجيات <b>Full-Stack &amp; AI</b> بـ <b>Python / Django</b> ومطوّر تطبيقات سطح مكتب بـ <b>C# / WPF (.NET)</b>، مع خبرة عملية كمراجع أمني (<b>Security Auditor</b>) وفي <b>الهندسة العكسية (Reverse Engineering)</b>.<br />
+أبني تطبيقات ويب وسطح مكتب وأنظمة ذكاء اصطناعي ووكلاء (AI Agents &amp; RAG) بمعمارية نظيفة ومؤمّنة من الجذور، وأفحص الأنظمة والكود المصدري والثنائيات لاكتشاف الثغرات قبل وصولها للإنتاج — لأن فهم كيف تُكسَر الأنظمة هو أضمن طريق لبنائها صح.
 </p>
 
 </div>
@@ -41,17 +43,18 @@
 ```python
 class Engineer:
     def __init__(self):
-        self.name       = "Abduallah Jamal"
-        self.roles      = [
+        self.name        = "Abduallah Jamal"
+        self.roles       = [
             "Full-Stack & AI Engineer",
-            "Security Auditor (AppSec & Code Review)",
-            "Reverse Engineer",
+            "WPF Desktop Developer (C# / .NET)",
+            "Security Auditor & Reverse Engineer",
         ]
-        self.location   = "Cairo, Egypt"
-        self.backend    = ["Python", "Django", "FastAPI", "PostgreSQL", "Redis"]
-        self.ai_stack   = ["LLM APIs", "RAG (pgvector)", "AI Agents & MCP", "Structured Outputs"]
-        self.security   = ["Source Code Auditing", "Reverse Engineering", "Binary & Protocol Analysis", "OWASP / AppSec"]
-        self.open_to    = ["Engineering Roles", "Security Audits", "Open Source"]
+        self.location    = "Cairo, Egypt"
+        self.web_desktop = ["Python", "Django", "FastAPI", "C#", ".NET / WPF (XAML)"]
+        self.ai_stack    = ["LLM APIs", "RAG (pgvector)", "AI Agents & MCP", "Structured Outputs"]
+        self.security    = ["Source Code Auditing", "Reverse Engineering (.NET & Native)", "OWASP / AppSec"]
+        self.ides        = ["Visual Studio", "VS Code"]
+        self.open_to     = ["Engineering Roles", "Security Audits", "Open Source"]
 
     def philosophy(self):
         return "Understand how systems break to build software that is simple, intelligent, and secure."
@@ -64,16 +67,16 @@ class Engineer:
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>⚡ Full-Stack &amp; Backend</h3>
-      <p>Designing clean, maintainable web applications and high-throughput REST APIs with <b>Python</b>, <b>Django</b>, <b>FastAPI</b>, <b>PostgreSQL</b>, and background task pipelines with <b>Celery &amp; Redis</b>.</p>
+      <h3>⚡ Web &amp; Desktop Engineering</h3>
+      <p>Building scalable web backends &amp; REST APIs with <b>Python</b>, <b>Django</b>, <b>FastAPI</b>, and <b>PostgreSQL</b>, alongside modern Windows desktop apps powered by <b>C#</b>, <b>.NET</b>, and <b>WPF (XAML)</b> in <b>Visual Studio</b> &amp; <b>VS Code</b>.</p>
     </td>
     <td width="33%" valign="top">
       <h3>🤖 AI &amp; Agentic Systems</h3>
-      <p>Building production LLM workflows, <b>RAG</b> pipelines over <b>pgvector</b>, structured tool-use with <b>Pydantic</b>, and cross-platform <b>Agent Skills &amp; MCP</b> integrations.</p>
+      <p>Engineering production LLM workflows, <b>RAG</b> pipelines over <b>pgvector</b>, validated structured outputs with <b>Pydantic</b>, and cross-platform <b>Agent Skills &amp; MCP</b> integrations.</p>
     </td>
     <td width="34%" valign="top">
       <h3>🔐 Security &amp; Reverse Engineering</h3>
-      <p>Deep <b>source-code security auditing</b>, vulnerability discovery (<b>OWASP / AppSec</b>), static &amp; dynamic binary analysis, decompilation, and protocol inspection.</p>
+      <p>Deep <b>source-code security auditing</b> (<b>OWASP / AppSec</b>), static &amp; dynamic analysis of <b>native &amp; .NET binaries</b>, decompilation, debugging, and protocol inspection.</p>
     </td>
   </tr>
 </table>
@@ -86,21 +89,25 @@ class Engineer:
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/C_%2F_C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++" />
   <img src="https://img.shields.io/badge/x86_%2F_ARM_ASM-0b1220?style=for-the-badge&logo=arm&logoColor=0ea5a4" alt="x86 / ARM Assembly" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/XAML-0078D4?style=for-the-badge&logoColor=white" alt="XAML" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-**Backend & Web Engineering**
+**Web & Desktop Frameworks**
 
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/WPF_Desktop-0078D4?style=for-the-badge&logo=dotnet&logoColor=white" alt="WPF Desktop" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
@@ -120,6 +127,7 @@ class Engineer:
 <p>
   <img src="https://img.shields.io/badge/Ghidra-B81D13?style=for-the-badge&logoColor=white" alt="Ghidra" />
   <img src="https://img.shields.io/badge/IDA_Pro_%26_x64dbg-0b1220?style=for-the-badge&logoColor=0ea5a4" alt="IDA Pro & x64dbg" />
+  <img src="https://img.shields.io/badge/dnSpy_%26_ILSpy-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dnSpy & ILSpy" />
   <img src="https://img.shields.io/badge/Frida_%26_Radare2-EF6C00?style=for-the-badge&logoColor=white" alt="Frida & Radare2" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
@@ -127,9 +135,11 @@ class Engineer:
   <img src="https://img.shields.io/badge/OWASP_AppSec-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP AppSec" />
 </p>
 
-**Databases, Infrastructure & Tools**
+**IDEs, Databases & Infrastructure**
 
 <p>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
@@ -169,8 +179,8 @@ class Engineer:
       <h3>📦 <a href="https://github.com/abduallahJamal/REPO_NAME">Project Title</a></h3>
       <p>Short two-line description: problem solved, architecture, and key highlight.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/WPF-.NET-0078D4?style=flat-square" alt="WPF" />
         <img src="https://img.shields.io/badge/Security-AppSec-0ea5a4?style=flat-square" alt="Security" />
       </p>
       <p><a href="https://github.com/abduallahJamal/REPO_NAME"><b>View Repository →</b></a></p>
