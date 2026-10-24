@@ -231,6 +231,27 @@ class Engineer:
       </p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🧭 <a href="https://github.com/abduallahJamal/vibe-engineering-playbook">vibe-engineering-playbook</a></h3>
+      <p>
+        Bilingual (<b>English &amp; Arabic RTL</b>) operational playbook + 6 pure-instruction Agent Skills (<code>/vibe</code>) for <b>OpenCode</b>, <b>Claude Code</b>, and <b>Codex CLI</b> — documenting <b>33 anti-patterns</b>, a <b>7-stage delivery workflow</b>, <b>12 prompt blueprints</b>, drop-in <code>AGENTS.md</code> / <code>PRD.md</code> templates, and <b>3 production gate checklists</b>.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Skills-6_%2B_%2Fvibe-38bdf8?style=flat-square" alt="6 Skills + /vibe" />
+        <img src="https://img.shields.io/badge/Playbook-33_Rules_%C2%B7_12_Prompts-818cf8?style=flat-square" alt="33 Rules · 12 Prompts" />
+        <img src="https://img.shields.io/badge/Bilingual-EN_%2B_Arabic_RTL-a78bfa?style=flat-square" alt="Bilingual EN + AR" />
+        <img src="https://img.shields.io/github/actions/workflow/status/abduallahJamal/vibe-engineering-playbook/validate.yml?branch=main&style=flat-square&label=CI&color=0ea5a4" alt="CI Status" />
+        <img src="https://img.shields.io/github/stars/abduallahJamal/vibe-engineering-playbook?style=flat-square&color=f59e0b" alt="Stars" />
+      </p>
+      <p>
+        <a href="https://github.com/abduallahJamal/vibe-engineering-playbook"><b>View Repository →</b></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/abduallahJamal/vibe-engineering-playbook/blob/main/README.ar.md"><b>التوثيق بالعربية →</b></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
