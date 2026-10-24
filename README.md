@@ -156,6 +156,24 @@ class Engineer:
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🎯 <a href="https://github.com/abduallahJamal/rased">rased</a></h3>
+      <p>
+        Production-grade headless Chromium <b>reconnaissance engine</b> + interactive <b>Web Playground</b> (<code>rased</code> / <code>page-fetch</code>) — intercepting every network response, mirroring origin trees with <code>.meta</code> telemetry, routing via Burp/ZAP proxies, and evaluating JavaScript in page context.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Playwright-Chromium_Recon-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright Chromium" />
+        <img src="https://img.shields.io/badge/Security-Recon_%26_AppSec-00E5FF?style=flat-square" alt="Recon & AppSec" />
+        <img src="https://img.shields.io/github/actions/workflow/status/abduallahJamal/rased/validate.yml?branch=main&style=flat-square&label=CI&color=0ea5a4" alt="CI Status" />
+        <img src="https://img.shields.io/github/stars/abduallahJamal/rased?style=flat-square&color=f59e0b" alt="Stars" />
+      </p>
+      <p>
+        <a href="https://github.com/abduallahJamal/rased"><b>View Repository →</b></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/abduallahJamal/rased/blob/main/README.ar.md"><b>التوثيق بالعربية →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/abduallahJamal/opencode-connect-f-production-skills">opencode-connect-f-production-skills</a></h3>
       <p>
         Eight gated <b>production-engineering &amp; security-auditing</b> Agent Skills + <code>/connect-f</code> command for <b>OpenCode</b>, <b>Claude Code</b>, and <b>Codex CLI</b> — enforcing interview-first scoping, read-only OWASP/code audits, and phase-approved fixes.
@@ -173,6 +191,8 @@ class Engineer:
         <a href="https://github.com/abduallahJamal/opencode-connect-f-production-skills/blob/main/README.ar.md"><b>التوثيق بالعربية →</b></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🗡️ <a href="https://github.com/abduallahJamal/opencode-design-skills">opencode-design-skills</a></h3>
       <p>
@@ -191,12 +211,10 @@ class Engineer:
         <a href="https://github.com/abduallahJamal/opencode-design-skills/blob/main/README.ar.md"><b>التوثيق بالعربية →</b></a>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3>🍽️ <a href="https://github.com/abduallahJamal/opencode-menu-skills">opencode-menu-skills</a></h3>
       <p>
-        Eight Agent Skills + <code>/menu</code> command for producing <b>print-ready, zero-drift Arabic RTL café &amp; restaurant menus</b> across <b>OpenCode</b>, <b>Claude Code</b>, and <b>Codex CLI</b> — separating verified JSON item/price schemas and text-free AI food photography from live A4 HTML/CSS typography, 300-DPI Playwright rendering, and automated visual QA.
+        Eight Agent Skills + <code>/menu</code> command for producing <b>print-ready, zero-drift Arabic RTL café &amp; restaurant menus</b> across <b>OpenCode</b>, <b>Claude Code</b>, and <b>Codex CLI</b> — separating verified JSON item/price schemas and text-free AI food photography from live A4 HTML/CSS typography and 300-DPI rendering.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
